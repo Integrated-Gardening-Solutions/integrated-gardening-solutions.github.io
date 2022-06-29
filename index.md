@@ -1,5 +1,7 @@
 ## Integrated Gardening Solutions!!!
 ### New python code
+Highlighted code block
+
 ```python
 import argparse
 import os
@@ -88,4 +90,3 @@ except:
         Switches(2)
     else:
         logging.error(f"Invalid target: {target}")
-'''
