@@ -1,8 +1,6 @@
 ## Integrated Gardening Solutions!!!
 ### New python code
-Highlighted code block
-
-```python
+```
 import argparse
 import os
 import logging
