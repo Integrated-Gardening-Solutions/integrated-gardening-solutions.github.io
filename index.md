@@ -1,6 +1,6 @@
 ## Integrated Gardening Solutions!!!
 ### Here is the new python code
-{% highlight python %}
+{% highlight python linenos %}
 import argparse
 import os
 import logging
