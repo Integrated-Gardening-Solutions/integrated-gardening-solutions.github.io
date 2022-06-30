@@ -1,5 +1,4 @@
 ## Integrated Gardening Solutions!!!
-### New python code
 ```
 import argparse
 import os
