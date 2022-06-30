@@ -1,6 +1,7 @@
 ## Integrated Gardening Solutions!!!
 ### Here is the new python code
-'import argparse
+'
+import argparse
 import os
 import logging
 import pingo
@@ -73,7 +74,6 @@ class Pumps:
             pumps[pump].write(1)
         else:
             logging.error(f"Invalid state: {state}")
-
 
 try:
     int(target)
