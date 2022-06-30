@@ -1,5 +1,5 @@
 ### Integrated Gardening Solutions!!!
-{% highlight python linenos %}
+{% highlight python %}
 import argparse
 import os
 import logging
