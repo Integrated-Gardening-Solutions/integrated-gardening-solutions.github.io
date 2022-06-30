@@ -1,6 +1,6 @@
 ## Integrated Gardening Solutions!!!
 ### Here is the new python code
-import argparse
+'import argparse
 import os
 import logging
 import pingo
@@ -87,3 +87,4 @@ except:
         Switches(2)
     else:
         logging.error(f"Invalid target: {target}")
+'
