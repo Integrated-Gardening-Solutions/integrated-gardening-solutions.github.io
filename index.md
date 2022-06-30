@@ -1,5 +1,4 @@
-## Integrated Gardening Solutions!!!
-### Here is the new python code
+### Integrated Gardening Solutions!!!
 {% highlight python linenos %}
 import argparse
 import os
